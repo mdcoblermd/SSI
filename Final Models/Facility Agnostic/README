@@ -1,4 +1,5 @@
-T1 corresponds to admissions models
-T2 corresponds to 48 hours models
-T3 corresponds to 96 hour models
-T4 corresponds to total hospital length of stay models
+NOFAC_final_composite is the model to predict the composite SSI outcome (organ space OR deep)
+NOFAC_final_deep is the model to predict deep SSI alone
+NOFAC_final_organspace is the model to predict organ space SSI alone
+
+Models in this folder are facility-agnostic and therefore do not incorporate any facility-level data
