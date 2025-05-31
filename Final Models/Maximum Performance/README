@@ -1,3 +1,5 @@
 FAC_final_composite is the model to predict the composite SSI outcome (organ space OR deep)
 FAC_final_deep is the model to predict deep SSI alone
 FAC_final_organspace is the model to predict organ space SSI alone
+
+All models in this folder incorporate facility-level data
