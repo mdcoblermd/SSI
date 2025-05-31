@@ -1,4 +1,5 @@
-T1 corresponds to admissions models
-T2 corresponds to 48 hours models
-T3 corresponds to 96 hour models
-T4 corresponds to total hospital length of stay models
+FAC_final_composite is the hyperparameter tuning for the model to predict the composite SSI outcome (organ space OR deep)
+FAC_final_deep is the hyperparameter tuning for the model to predict deep SSI alone
+FAC_final_organspace is the hyperparameter tuning for the model to predict organ space SSI alone
+
+Models in this folder all incorporate facility-level data
